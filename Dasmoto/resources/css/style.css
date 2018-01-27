@@ -1,0 +1,54 @@
+h1,
+h3,
+p,
+img {
+  font-family: "trebuchet", sans-serif;
+  margin-left: 50px;
+}
+
+h2 {
+  font-family: "trebuchet", sans-serif;
+  color: white;
+  font-size: 25px;
+  letter-spacing: 1px;
+  text-indent: 45px;
+}
+
+img {
+  margin-top: -1px;
+  border-radius: 20px;
+  background-size: 150%;
+}
+
+span {
+  color: rgb(26, 85, 188);
+}
+
+.dasmoto_h1 {
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  letter-spacing: 2px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  padding: 80px;
+  margin: -12px;
+}
+
+.brushes,
+.frames,
+.paints {
+  padding: 20px;
+  margin: -15px;
+}
+
+.brushes {
+background-color: rgb(123, 196, 19)
+}
+
+.frames {
+  background-color: rgb(247, 124, 25);
+}
+
+.paints {
+  background-color: rgb(101, 65, 202);
+}
